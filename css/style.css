@@ -1,0 +1,21 @@
+.logo{
+
+}
+header{
+    text-align: center;
+}
+nav li{
+    display: inline;
+    padding: 60px;
+    font-size: 30px;
+}
+a{
+    color: black;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+nav a:hover{
+    text-decoration: underline;
+}
