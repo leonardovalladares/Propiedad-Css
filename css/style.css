@@ -68,3 +68,8 @@ footer {
     padding: 20px;
     background-color: lightgrey;
 }
+
+.image {
+    width: 600px;
+    border: 2px solid black
+}
